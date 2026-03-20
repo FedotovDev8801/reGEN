@@ -1,15 +1,14 @@
-
-# <img src="https://playnite.link/applogo.png" width="32">  Playnite [![Crowdin](https://badges.crowdin.net/playnite/localized.svg)](https://crowdin.com/project/playnite)
+# reGEN (fork of Playnite)
 An open source video game library manager and launcher with support for 3rd party libraries like Steam, Epic, GOG, EA App, Battle.net and [others](https://playnite.link/addons.html). Includes game emulation support, providing one unified interface for your games.
 
-Screenshots are available at the [Homepage](http://playnite.link/)
-
 *If you find Playnite useful please consider supporting the lead developer [Josef Nemec](https://github.com/JosefNemec) on [Patreon](https://www.patreon.com/playnite).*
+
+*Also please support FedotovDev if you find reGEN useful [link to Patreon](https://patreon.com/fedotovdev8801)*
 
 Features
 ---------
 
-See the [Homepage](http://playnite.link/) for the list of features.
+- Steam, Epic, GOG, EA App, Battle.net integration [(full list of platforms)](https://playnite.link/addons.html)
 
 Download
 ---------
